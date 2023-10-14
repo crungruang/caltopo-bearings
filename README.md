@@ -17,7 +17,7 @@ This is required to save a map locally on your workstation
 
 1. Open desired CalTopo Map
 2. Go to Export (top left of screen)
-3. Save the file
+3. Save the file (`Export` button)
 
 ### OSX/Linux Users
 
