@@ -3,8 +3,9 @@ This will take a JSON exported file from CalTopo and calculate bearing & distanc
 
 - This is a command-line utility only
 - These instructions _assume_ (unless you save to another dir), you will run things from your Downloads directory: 
-  - i.e. `/home/$user/Downloads/` for OSX/Linux 
-  - i.e. `$User\My Downloads\` for Windows
+  - i.e. `/home/$username/Downloads/` for Linux
+  - i.e. `/Users/$username/Downloads` 
+  - i.e. `\Users\$username\Downloads\` for Windows
 
 ---
 
@@ -20,18 +21,20 @@ This is required to save a map locally on your workstation
 
 ### OSX/Linux Users
 
-1. Open a Terminal (OSX: Click on Launchpad Icon and type `terminal` and hit Enter`)
-2. Navigate to your downloads directory
-3. Type in `chmod +x calbear` to make the file executable (only needs to be done once)
-4. Type in `./calbear`
-5. You will be prompted to type in the name of the JSON file you exported from CalTopo
+1. Download the `calbear` file in this repo
+2. Open a Terminal (OSX: Click on Launchpad Icon and type `terminal` and hit Enter`)
+3. Navigate to your downloads directory
+4. Type in `chmod +x calbear` to make the file executable (only needs to be done once)
+5. Type in `./calbear`
+6. You will be prompted to type in the name of the JSON file you exported from CalTopo
 
 ### Windows Users
 
-1. Open a Terminal (Start > Run > type `cmd` and hit Enter)
-2. Navigate to your downloads directory
-3. Type `calbear.exe`
-4. You will be prompted to type in the name of the JSON file you exported from CalTopo
+1. Download the `calbear.exe` file in this repo
+2. Open a Terminal (Start > Run > type `cmd` and hit Enter)
+3. Navigate to your downloads directory (`cd Downloads`)
+4. Type `calbear.exe`
+5. You will be prompted to type in the name of the JSON file you exported from CalTopo
 
 ---
 
