@@ -23,7 +23,7 @@ This is required to save a map locally on your workstation
 
 1. Download the `calbear` file in this [repo](https://github.com/crungruang/caltopo-bearings/blob/main/calbear) the download icon should look like ![this](images/download_icon.png) 
 2. Open a Terminal (OSX: Click on Launchpad Icon and type `terminal` and hit Enter`)
-3. Navigate to your downloads directory (type `cd Downloads`)
+3. Navigate to your downloads directory (type `cd ~/Downloads`)
 4. Type in `chmod +x calbear` to make the file executable (only needs to be done once)
 5. Type in `./calbear`
 6. You will be prompted to type in the name of the JSON file you exported from CalTopo
