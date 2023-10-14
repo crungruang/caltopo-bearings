@@ -38,6 +38,6 @@ This is required to save a map locally on your workstation
 
 ---
 
-**See the videos folder for a video demo with audio**
+**See the videos folder for a [video demo](videos/calbearings_demo.mp4) with audio**
 
 _If you have trouble opening up terminal on your workstation, maybe do some Googling -- there's a lot of ways to get there and covering all of them is out of scope for this README._
