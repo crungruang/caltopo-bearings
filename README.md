@@ -21,7 +21,7 @@ This is required to save a map locally on your workstation
 
 ### OSX/Linux Users
 
-1. Download the `calbear` file in this repo
+1. Download the `calbear` file in this [repo](https://github.com/crungruang/caltopo-bearings/blob/main/calbear) the download icon should look like ![this](images/download_icon.png) 
 2. Open a Terminal (OSX: Click on Launchpad Icon and type `terminal` and hit Enter`)
 3. Navigate to your downloads directory
 4. Type in `chmod +x calbear` to make the file executable (only needs to be done once)
@@ -30,7 +30,7 @@ This is required to save a map locally on your workstation
 
 ### Windows Users
 
-1. Download the `calbear.exe` file in this repo
+1. Download the `calbear.exe` file in this [repo](https://github.com/crungruang/caltopo-bearings/blob/main/calbear.exe) the download icon should look like ![this](images/download_icon.png)
 2. Open a Terminal (Start > Run > type `cmd` and hit Enter)
 3. Navigate to your downloads directory (`cd Downloads`)
 4. Type `calbear.exe`
